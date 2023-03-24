@@ -1,8 +1,12 @@
 # origa
 
-A new Flutter project.
+My First Company Project
 
 ## Getting Started
+
+
+https://user-images.githubusercontent.com/111499522/227503123-5cb5ce8f-32af-4e4a-b110-83251e8912f0.mp4
+
 
 This project is a starting point for a Flutter application.
 
